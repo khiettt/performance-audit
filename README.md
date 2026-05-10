@@ -1,8 +1,5 @@
 # Performance Audit 
-
-Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
-
-De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
+IK heb de website van [Klein&Co](https://www.kleinenco.nl) getest op performance. Hiervoor heb ik lighthouse, PageSpeed Insights en WebPage Test gebruikt. ik heb mijn onderzoek verwerkt in Wiki, maar ik geed hier een kleine samenvatting van wat ik heb gevonden binnen mijn onderzoek. 
 
 
 ## Titel Website
@@ -13,6 +10,16 @@ Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Deskt
 
 Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie van je onderzoek.
 
-## Licentie
+## Lighthouse
 
+## PageSpeed Insights
+
+## WebPage Test
+
+
+
+
+
+## Licentie
 This project is licensed under the terms of the [MIT license](./LICENSE).
+[INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
